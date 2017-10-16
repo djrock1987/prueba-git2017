@@ -1,2 +1,3 @@
 # prueba-git2017
-este es una prueba de conexiony prueba de git remote
+Este es una prueba de conexion y prueba de git remote
+este es el ajuste 2 para crear otro cambio que nos permita demostrar y jalar otros cambios 
